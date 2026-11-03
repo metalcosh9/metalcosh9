@@ -1,6 +1,10 @@
 ## Hey
 I program things and also is good at math!
 
-Programming Languages:
-* Python
-* Javascript (node.js) (also learning)
+<div align="center">
+
+- Frontend: React (learning)
+- Backend: Node.js (learning)
+- Python (learning)
+
+</div>
