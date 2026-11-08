@@ -17,6 +17,7 @@
 <details>
   <summary>Contact Me</summary>
   
-  * youtube: www.youtube.com/@genericosh
+  * discord: #
+  * gmail: no.sovietunion@gmail.com
 
 </details>
