@@ -20,3 +20,4 @@
   * youtube: www.youtube.com/@genericosh
 
 </details>
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
