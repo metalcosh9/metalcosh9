@@ -35,8 +35,3 @@
 </details>
 
 </details>
-
-# Uses
-<img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/ea86d957-2870-4e5f-9dda-15cd0285fff3" />
-<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/a3767237-53dd-4ac0-9dd7-fbad95d1bc78" />
-
