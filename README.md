@@ -10,7 +10,8 @@
 <details>
   <summary>Languages</summary>
 
-  * C++ (Learning)
+  * Python (Learning)
+  * Bash (Learning)
 
 </details>
 
