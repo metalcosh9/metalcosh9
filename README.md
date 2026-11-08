@@ -5,8 +5,4 @@
 
   * My name is cosh
   * Developer
- <summary>Programming</summary>
-
-  * 1
 </details>
-
