@@ -18,7 +18,7 @@
 <details>
   <summary>Contact Me</summary>
   
-  * discord: #
+  * discord: #MCOSHG
   * gmail: no.sovietunion@gmail.com
 
 </details>
