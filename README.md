@@ -36,3 +36,5 @@
 </details>
 
 </details>
+
+[![Discord](https://shields.io)](YOUR_DISCORD_LINK)
