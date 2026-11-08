@@ -4,5 +4,12 @@
   <summary>About Me</summary>
 
   * My name is cosh
-  * Developer
+  * Developer and Web Developer
 </details>
+<details>
+  <summary>Languages</summary>
+
+  * Typescript (Learning)
+
+</details>
+
