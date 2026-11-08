@@ -6,10 +6,16 @@
   * My name is cosh
   * Developer and Web Developer
 </details>
+
 <details>
   <summary>Languages</summary>
 
   * Typescript (Learning)
 
 </details>
-Not rlly online much..
+
+<details>
+  <summary>Contact Me</summary>
+  * youtube: www.youtube.com/@genericosh
+
+</details>
