@@ -34,7 +34,11 @@
 
 </details>
 
-    
-
 </details>
+
+
+<img src="https://githubusercontent.com" width="20" height="20"> My Projects
+
+<img src="https://githubusercontent.com" width="20" height="20"> Connect with me
+
 
