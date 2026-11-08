@@ -4,7 +4,7 @@
   <summary>About Me</summary>
 
   * My name is cosh
-  * Developer and Web Developer
+  * Fullstack Developer (Hopefully!)
 </details>
 
 <details>
