@@ -23,9 +23,9 @@
 </details>
 
 <details>
-  <summary>Websites</summary>
+  <summary>Projects</summary>
   
-  * 
-  * 
+  * Nothin much..
+    
 
 </details>
