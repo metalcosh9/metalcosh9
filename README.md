@@ -18,7 +18,7 @@
 <details>
   <summary>Contact Me</summary>
   
-  * discord: #MCOSHG (you'll find me here the most)
+  * discord: #ryder.willis (RYDER)
   * gmail: no.sovietunion@gmail.com
 
 </details>
