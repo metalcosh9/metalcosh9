@@ -16,6 +16,7 @@
 
 <details>
   <summary>Contact Me</summary>
-   * youtube: www.youtube.com/@genericosh
+  
+  * youtube: www.youtube.com/@genericosh
 
 </details>
