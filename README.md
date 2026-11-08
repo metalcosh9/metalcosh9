@@ -1,9 +1,9 @@
 ## Hey there 👋
 
 <details>
-  <summary>Click to view options</summary>
+  <summary>About Me</summary>
 
-  * Option 1
+  * My name is cosh
   * Option 2
   * Option 3
 
