@@ -27,7 +27,7 @@
 <details>
   <summary>Projects</summary>
   
-  * Nothin much..
+  * cosh.web - cosh.web is a website for my ports and stuff
 <details>
   <summary>My ports</summary>
   
