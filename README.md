@@ -12,6 +12,7 @@
 
   * Python (Learning)
   * Bash (Learning)
+  * JS (Learning)
 
 </details>
 
