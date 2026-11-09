@@ -37,3 +37,12 @@
 </details>
 
 </details>
+
+<details>
+  <summary>Softwares and tools</summary>
+  
+  * Visual Studio Code
+  * Next.js
+
+
+</details>
