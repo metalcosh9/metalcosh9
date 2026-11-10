@@ -10,8 +10,7 @@
 <details>
   <summary>Languages</summary>
 
-  * C++ (Learning)
-  * JS (Learning)
+  * C (Learning)
 
 </details>
 
