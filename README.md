@@ -10,7 +10,7 @@
 <details>
   <summary>Languages</summary>
 
-  * Python (Learning)
+  * C++ (Learning)
   * JS (Learning)
   * TS (Learning)
 
