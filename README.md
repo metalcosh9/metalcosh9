@@ -8,13 +8,14 @@
 </details>
 
 <details>
+  
+  <details>
   <summary>Languages</summary>
-
-  * C (Learning)
+  
+  * JS ()
 
 </details>
 
-<details>
   <summary>Contact Me</summary>
   
   * discord: @ryder.willis (RYDER)
