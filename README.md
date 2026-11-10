@@ -12,7 +12,6 @@
 
   * C++ (Learning)
   * JS (Learning)
-  * TS (Learning)
 
 </details>
 
