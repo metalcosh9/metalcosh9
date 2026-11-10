@@ -11,8 +11,8 @@
   <summary>Languages</summary>
 
   * Python (Learning)
-  * Bash (Learning)
   * JS (Learning)
+  * TS (Learning)
 
 </details>
 
