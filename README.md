@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary>Softwares and tools</summary>
+  <summary>Softwares and tools (uses)</summary>
   
   * Visual Studio Code
   * Next.js
