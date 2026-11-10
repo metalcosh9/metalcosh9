@@ -14,6 +14,7 @@
 
 </details>
 
+<details>
   <summary>Contact Me</summary>
   
   * discord: @ryder.willis (RYDER)
