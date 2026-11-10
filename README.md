@@ -46,3 +46,12 @@
 
 
 </details>
+<details>
+  <summary>known for</summary>
+  
+  * Idiotic behavior
+  * Stupidity
+  * Passion in coding and web development
+
+
+</details>
