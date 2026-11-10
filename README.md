@@ -35,7 +35,7 @@
   <summary>Softwares and tools (uses)</summary>
   
   * Visual Studio Code
-  * Next.js
+  * .NET
 
 
 </details>
