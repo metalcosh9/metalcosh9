@@ -8,11 +8,9 @@
 </details>
 
 <details>
-  
-  <details>
   <summary>Languages</summary>
   
-  * JS ()
+  * C
 
 </details>
 
