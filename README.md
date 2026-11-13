@@ -10,7 +10,7 @@
 <details>
   <summary>Languages</summary>
   
-  * learning some..
+  * C++
 
 </details>
 
