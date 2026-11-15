@@ -11,8 +11,7 @@
   <summary>Languages</summary>
   
   * C#
-  * TS
-  * JS
+  * Python
 
 </details>
 
