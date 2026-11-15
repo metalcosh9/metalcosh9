@@ -11,6 +11,7 @@
   <summary>Languages</summary>
   
   * C#
+  * C
 
 </details>
 
