@@ -10,8 +10,8 @@
 <details>
   <summary>Languages</summary>
   
-  * C#
-  * Python
+  * Typescript
+  * Javascript
 
 </details>
 
