@@ -10,7 +10,7 @@
 <details>
   <summary>Languages</summary>
   
-  * C
+  * C#
 
 </details>
 
@@ -19,6 +19,7 @@
   
   * discord: @ryder.willis (RYDER)
   * gmail: no.sovietunion@gmail.com
+  * youtube: www.youtube.com/@genericosh
 
 </details>
 
@@ -37,6 +38,7 @@
   
   * Visual Studio Code
   * .NET
+  * Unity
 
 
 </details>
