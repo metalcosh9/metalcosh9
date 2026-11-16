@@ -19,7 +19,7 @@
   
   * discord: @ryder.willis (RYDER)
   * gmail: no.sovietunion@gmail.com
-  * youtube: www.youtube.com/@genericosh
+  * youtube: www.youtube.com/@genericosh (idk how?)
 
 </details>
 
