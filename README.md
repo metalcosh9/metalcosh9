@@ -10,8 +10,7 @@
 <details>
   <summary>Languages</summary>
   
-  * Typescript
-  * Javascript
+  * C
 
 </details>
 
