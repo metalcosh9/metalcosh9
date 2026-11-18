@@ -36,5 +36,4 @@
 </details>
 
 # Languages
-  * Python
-  * Bash
+  * C#
