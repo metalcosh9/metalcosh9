@@ -10,7 +10,9 @@
 <details>
   <summary>Languages</summary>
   
+  * Typescript
   * C#
+  * Bash
 
 </details>
 
@@ -20,16 +22,6 @@
   * discord: @ryder.willis (RYDER)
   * gmail: no.sovietunion@gmail.com
   * youtube: www.youtube.com/@genericosh (idk how?)
-
-</details>
-
-   <details>
-  <summary>My ports</summary>
-  
-  * Nothing?
-
-</details>
-
 
 </details>
 
