@@ -36,7 +36,5 @@
 </details>
 
 # Languages
-  * Typescript
-  * C#
+  * Python
   * Bash
-
