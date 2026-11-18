@@ -8,15 +8,6 @@
 </details>
 
 <details>
-  <summary>Languages</summary>
-  
-  * Typescript
-  * C#
-  * Bash
-
-</details>
-
-<details>
   <summary>Contact Me</summary>
   
   * discord: @ryder.willis (RYDER)
@@ -44,5 +35,8 @@
 
 </details>
 
-# Things that I'm proud of
+# Languages
+  * Typescript
+  * C#
+  * Bash
 
