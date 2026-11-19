@@ -36,5 +36,5 @@
 </details>
 
 # Languages
-  * C#
-  *
+  * Python
+  * Bash
