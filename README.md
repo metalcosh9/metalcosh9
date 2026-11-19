@@ -5,6 +5,7 @@
 
   * My name is cosh
   * Fullstack Developer (Hopefully!)
+  * Reverse Engineer
 </details>
 
 <details>
