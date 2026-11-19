@@ -11,7 +11,7 @@
 <details>
   <summary>Contact Me</summary>
   
-  * discord: @ryder.willis (RYDER)
+  * discord: @ryder.willis (RYDER, you'll find me here the most)
   * gmail: no.sovietunion@gmail.com
   * youtube: www.youtube.com/@genericosh (idk how?)
 
